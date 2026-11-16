@@ -1,0 +1,9 @@
+[submodule "third_party/stdwin"]
+	path = third_party/stdwin
+	url = git@github.com:Nikita-prog-art/stdwin.git
+[submodule "third_party/mam_mol"]
+	path = third_party/mam_mol
+	url = https://github.com/hyoo-ru/mam_mol
+[submodule "third_party/mol_skill"]
+	path = third_party/mol_skill
+	url = https://github.com/b-on-g/mol_skill
